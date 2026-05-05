@@ -1,0 +1,25 @@
+{
+  "name": "complaintregistrationplatform-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdeegar-glitch/ComplaintRegistrationPlatform-BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sdeegar-glitch/ComplaintRegistrationPlatform-BACKEND/issues"
+  },
+  "homepage": "https://github.com/sdeegar-glitch/ComplaintRegistrationPlatform-BACKEND#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "expressjs": "^1.0.1"
+  }
+}
